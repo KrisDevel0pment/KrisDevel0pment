@@ -1,6 +1,6 @@
 <div align="center">
 
-![KrisDevel0pment's GitHub Profile Header](assets/header.gif)
+![KrisDevel0pment's GitHub Profile Header](assets/github-header-image.png)
 
 </div>
 
