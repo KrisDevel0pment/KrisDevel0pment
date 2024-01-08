@@ -11,7 +11,10 @@
 - ⚡ Fun fact: Work, Learn, Dev !
 
 <div align="center">
-
+<!--Profile Count Badge-->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=KrisDevel0pment&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="KrisDevel0pment" style="padding-right:20px;" />
+</p>
 
 ## 💻 My Tech Stack:
 
