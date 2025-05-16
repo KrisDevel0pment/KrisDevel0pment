@@ -18,7 +18,7 @@
 
 ## 💻 My Tech Stack:
 
-[![My Tech Stack](https://skillicons.dev/icons?i=azure,bash,devto,github,powershell,py,raspberrypi,vscode,visualstudio,nginx,mysql,lua,linux,)](https://skillicons.dev)
+[![My Tech Stack](https://skillicons.dev/icons?i=mysql,lua,js,html,css,nodejs,mysql)](https://skillicons.dev)
 
 
 ## 🎮 When I'm AFK:
