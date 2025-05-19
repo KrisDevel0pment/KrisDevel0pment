@@ -12,7 +12,7 @@
 
 <div align="center">
 
-### `Transformez votre expérience FIVEM avec des solutions personnalisées`
+### `Élevez votre expérience RP avec des solutions sur mesure`
 
 <!--Profile Count Badge-->
 <p align="center">
