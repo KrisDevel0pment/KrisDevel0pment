@@ -2,12 +2,13 @@
 
 ![KD Developer GitHub Profile Header](./github-header-image1.png)
 
-# 💻 Développeur FiveM | Créateur de Scripts & Ressources pour RP
+# 💻 Développeur FiveM | Scripts & Interfaces graphiques
 
 </div>
 
-- 🎮 Je travaille actuellement sur des scripts personnalisés pour des serveurs FiveM
-- 🔧 Spécialisé dans le développement de ressources et frameworks pour roleplay
+- 🎮 Développement de scripts LUA personnalisés pour serveurs FiveM
+- 💻 Création de frameworks et systèmes complets de roleplay
+- 🖌️ Conception d'interfaces utilisateur avancées et fonctionnelles
 
 <div align="center">
 
@@ -20,7 +21,7 @@
 
 ## 💻 Stack Technique:
 
-[![My Tech Stack](https://skillicons.dev/icons?i=mysql,lua,js,html,css,nodejs,mysql)](https://skillicons.dev)
+[![My Tech Stack](https://skillicons.dev/icons?i=mysql,lua,js,html,css,nodejs)](https://skillicons.dev)
 
 ## 🌐 Outils & Frameworks FiveM:
 
@@ -29,6 +30,8 @@
     <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/ESX-00BFFF?style=for-the-badge&logo=github&logoColor=white" />&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/QBCore-9933FF?style=for-the-badge&logo=github&logoColor=white" />&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/OX-6f42c1?style=for-the-badge&logo=github&logoColor=white" />&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/VSCode-00BFFF?style=for-the-badge&logo=github&logoColor=white" />&nbsp;&nbsp;
 </p>
 
 ## 📊 Mes Projets FiveM:
